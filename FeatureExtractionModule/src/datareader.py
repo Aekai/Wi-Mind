@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 import numpy as np
 import pandas as pd
-from _bisect import bisect
+from bisect import bisect
 from itertools import groupby
 
 
