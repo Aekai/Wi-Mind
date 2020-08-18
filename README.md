@@ -1,6 +1,6 @@
 # This is a fork of Wi-Mind
 This fork takes a look at using autoencoders to improve the original author's neural network approach for classification of the previously acquired data.  
-It will only add some files into ["./FeatureExtractionModule/src/"]("/FeatureExtractionModule/src/") and update two files there to python 3.7.  
+It will only add some files into [./FeatureExtractionModule/src/](/FeatureExtractionModule/src/) and update two files there to python 3.7.  
 The rest of this repository was made by the original author.  
 
 # Wi-Mind
