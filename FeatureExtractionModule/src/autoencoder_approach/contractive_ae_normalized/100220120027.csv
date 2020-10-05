@@ -1,0 +1,13 @@
+round_epochs,loss,acc,val_loss,val_acc,batch_size,dropout,enc_activation,enc_dim,epochs,last_activation,lr,optimizer,weight_regulizer
+100,0.2822389767450445,0.0,0.3098616122382961,0.006849315,64,0.0,relu,128,100,softmax,5.05,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.282962264734156,0.0029411765,0.31065847622613385,0.0,16,0.12,sigmoid,64,100,softmax,8.020000000000001,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+100,0.282233007515178,0.014705882,0.3099055944444382,0.01369863,16,0.04,sigmoid,128,100,softmax,9.01,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.0774531158454278,0.0,0.07453701900292749,0.006849315,128,0.04,sigmoid,32,100,sigmoid,6.04,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+100,0.07487137396545972,0.0,0.07339027983276811,0.0,128,0.36,sigmoid,64,100,sigmoid,9.01,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+100,0.2822168890167685,0.0,0.30987649421169333,0.006849315,128,0.04,sigmoid,32,100,softmax,5.05,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.28221515732653,0.0,0.30987603084681786,0.006849315,64,0.24,sigmoid,16,100,softmax,6.04,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.2822175513295566,0.0,0.30987653136253357,0.006849315,256,0.2,sigmoid,32,100,softmax,9.01,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.04702444611226811,0.0,0.04559379816055298,0.0,256,0.2,sigmoid,128,100,sigmoid,9.01,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.28221374890383555,0.0029411765,0.3098782529569652,0.0,64,0.32,sigmoid,128,100,softmax,6.04,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.2822363064569585,0.0,0.3098617232825658,0.006849315,64,0.12,relu,16,100,softmax,9.01,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.07722698721815557,0.0,0.07444964043081623,0.006849315,64,0.12,relu,16,100,sigmoid,5.05,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None

@@ -1,0 +1,26 @@
+round_epochs,loss,acc,val_loss,val_acc,batch_size,dropout,enc_activation,enc_dim,epochs,last_activation,loss,lr,optimizer,weight_regulizer
+100,0.25052264060716906,0.014522822,0.2881617506489086,0.0,16,0.24,sigmoid,16,100,softmax,mse,7.03,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.07517122814269481,0.002074689,0.08561115812708214,0.0,64,0.0,relu,16,100,sigmoid,mse,4.0600000000000005,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,2.9976612314643702,0.0013429186,3.235758652433681,0.0015878365,128,0.12,relu,16,100,softmax,binary_crossentropy,1.09,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+100,0.03233829262778472,0.0062240665,0.041378021240234375,0.0,256,0.0,sigmoid,32,100,sigmoid,mse,3.0700000000000003,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.25047933758541757,0.016597511,0.28811614625695825,0.0,64,0.28,relu,64,100,softmax,mse,8.020000000000001,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.07521562717267587,0.0062240665,0.08538656732166447,0.0,16,0.24,relu,64,100,sigmoid,mse,3.0700000000000003,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+100,0.015304992415969302,0.004149378,0.023933594803447308,0.009661836,64,0.24,sigmoid,32,100,sigmoid,mse,5.05,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.25048679312791566,0.022821577,0.2881019053539792,0.0,16,0.32,sigmoid,64,100,softmax,mse,2.08,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+100,0.526414980779545,0.0024204704,0.5382180645845939,0.0018499793,64,0.04,sigmoid,128,100,sigmoid,binary_crossentropy,4.0600000000000005,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.015410059885241679,0.004149378,0.026581070831288463,0.0,16,0.04,sigmoid,64,100,sigmoid,mse,5.05,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.2504767440414033,0.0186722,0.28809838119336373,0.009661836,64,0.24,relu,32,100,softmax,mse,4.0600000000000005,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,2.9847977072371488,0.0013429187,3.2314738559262186,0.0015878367,16,0.32,sigmoid,64,100,softmax,binary_crossentropy,4.0600000000000005,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.25147707432632127,0.0,0.28910714387893677,0.0,256,0.28,relu,128,100,softmax,mse,8.020000000000001,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+100,0.250490538559514,0.012448133,0.2881163396121223,0.004830918,128,0.36,relu,16,100,softmax,mse,9.01,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.2506985982176674,0.002074689,0.2883021831512451,0.0,256,0.24,sigmoid,32,100,softmax,mse,5.05,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.011878729071390827,0.010373444,0.022898710985186595,0.009661836,128,0.08,relu,128,100,sigmoid,mse,1.09,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.25070452925080583,0.0,0.2883061703276519,0.004830918,128,0.0,sigmoid,32,100,softmax,mse,1.09,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.6725744637216275,0.0013461353,0.6842859387397766,0.0015878365,256,0.2,relu,16,100,sigmoid,binary_crossentropy,2.08,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+100,0.5642651888344793,0.0014844479,0.5698264811349951,0.0015653671,128,0.12,sigmoid,64,100,sigmoid,binary_crossentropy,9.01,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.2504637073184445,0.008298756,0.2880994139806084,0.0,16,0.08,relu,16,100,softmax,mse,5.05,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,3.000634895815394,0.0013429186,3.2375611302933254,0.0015878367,16,0.04,relu,32,100,softmax,binary_crossentropy,3.0700000000000003,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,2.998354281627291,0.0013429186,3.2342419624328613,0.0015878365,256,0.16,sigmoid,128,100,softmax,binary_crossentropy,7.03,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
+100,0.6716025207052587,0.0013879506,0.6856980666446225,0.0015915814,128,0.08,relu,64,100,sigmoid,binary_crossentropy,3.0700000000000003,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+100,0.023820080357715795,0.002074689,0.031405492627246366,0.009661836,64,0.24,sigmoid,32,100,sigmoid,mse,1.09,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>,None
+100,0.0373338336642847,0.004149378,0.046383819034422076,0.0,16,0.28,sigmoid,128,100,sigmoid,mse,0.1,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,None
