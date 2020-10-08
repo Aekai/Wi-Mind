@@ -1,2 +1,0 @@
-round_epochs,loss,acc,val_loss,val_acc,batch_size,dropout,epochs,filters,ker_size,loss,lr,lstm_out_size,optimizer,pool_size,strides,weight_regulizer
-100,0.48468383973564844,0.7780083,0.6739549806728455,0.6425121,64,0.04,100,16,8,binary_crossentropy,3.0700000000000003,24,adam,2,1,None
