@@ -1,0 +1,7 @@
+round_epochs,loss,acc,val_loss,val_acc,activation,batch_size,dropout,epochs,hidden_size,last_activation,loss,lr,optimizer
+100,0.6867393851280212,0.48362234234809875,0.0,0.0,softmax,128,0.2800000000000001,100,30,relu,binary_crossentropy,0.1,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>
+100,7.374873161315918,0.5163776278495789,0.0,0.0,relu,256,0.22000000000000006,100,24,softmax,binary_crossentropy,2.066666666666667,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>
+100,0.6562347412109375,0.626204252243042,0.0,0.0,softmax,256,0.2800000000000001,100,24,relu,binary_crossentropy,2.066666666666667,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>
+100,0.6490117311477661,0.6242774724960327,0.0,0.0,sigmoid,256,0.16000000000000003,100,20,sigmoid,binary_crossentropy,4.033333333333334,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>
+100,7.374873161315918,0.5163776278495789,0.0,0.0,sigmoid,64,0.16000000000000003,100,24,softmax,binary_crossentropy,4.033333333333334,<class 'tensorflow.python.keras.optimizer_v2.nadam.Nadam'>
+100,7.374873161315918,0.5163776278495789,0.0,0.0,relu,64,0.16000000000000003,100,20,softmax,binary_crossentropy,4.033333333333334,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>
